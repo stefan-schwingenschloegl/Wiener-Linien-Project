@@ -76,4 +76,4 @@ All in all, the result is the following ranking:
   - Moderate mean delay, moderate median delay
   - Highest Variance of all stops
   - Very high span of delays.
-  - Insider-Advice: Like Forrest Gump's Mother would say: Life is like a box of chocolates. You never know what you're gonna get.
+  - Insider-Advice: Like Forrest Gump's Mother would say: "Life is like a box of chocolates. You never know what you're gonna get".
