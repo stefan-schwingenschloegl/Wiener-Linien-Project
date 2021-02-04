@@ -31,4 +31,12 @@ All in all the following files are in this project:
 4. `API_exctraction.ipynb`: Call the Wiener Linien API once a minute, get all relevant data from the json response and write automatically into the database
 5. `data_exploration.ipynb`: Data analysis of the retrieved data
 
-UNDER CONSTRUCTION
+# Results
+In this section the results of my analysis can be seen.
+
+| stop_name                            | count | mean  | std   | min    | 25%   | 50% | 75%   | max   |
+|--------------------------------------|-------|-------|-------|--------|-------|-----|-------|-------|
+| Gudrunstraße                         | 662.0 | 1.16  | 73.85 | -286.0 | -27.0 | 0.0 | 11.75 | 728.0 |
+| Kardinal-Nagl-Platz U                | 162.0 | 45.28 | 65.96 | -55.0  | 0.0   | 5.5 | 78.00 | 297.0 |
+| Margaretenplatz, Schönbrunner Straße | 506.0 | 4.36  | 87.07 | -770.0 | -46.0 | 5.5 | 44.00 | 499.0 |
+| Schönbrunn U                         | 169.0 | -4.36 | 71.87 | -234.0 | -38.0 | 0.0 | 5.00  | 284.0 |
