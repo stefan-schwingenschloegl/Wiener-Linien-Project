@@ -4,7 +4,7 @@
 ___
 
 # Overview
-This is my first project here on github. As Data Source I used the Wiener Linien Realtime API (http://www.wienerlinien.at/ogd_realtime/doku/). 
+This is my first project here on github. As Data Source I used the Wiener <a href = "http://www.wienerlinien.at/ogd_realtime/doku/" target = "blank">Linien Realtime API</a>. 
 This project is used to analyze delays at specific stations in Vienna's public transport network. For this analysis I chose the stations "Margeretenplatz / Schönbrunner Straße", "Kardinal-Nagl Platz", "Gudrunstraße" and "Schönbrunn". These stations are important to me because I have either lived near these places myself or I have viewed a flat there. This should give me personal information about the area relevant to me where public transport works best.
 
 In this specific analysis I collected delay data for the four mentioned stations on 02.02.2021 from 8:16 to 22:00. This data got directly inserted into the database after calling the API. Since I have extracted the data from the API and the data ownership does not lie with me, I cannot publish the raw data. This data is only used for this analysis. The analysis is accessible in the file 'data_exploration.ipynb'.
